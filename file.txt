@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Main edit same line
+=======
+Experiment edit same line
+>>>>>>> experiment-branch
